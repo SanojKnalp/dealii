@@ -12,6 +12,7 @@
 
 set(_unity_include_src
   affine_constraints.cc
+  anasazi_solver.cc
   block_sparse_matrix.cc
   block_sparse_matrix_ez.cc
   block_sparsity_pattern.cc
